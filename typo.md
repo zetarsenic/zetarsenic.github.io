@@ -9,7 +9,7 @@ Voici un tableau des principales syntaxes Markdown utilisées dans ce carnet.
 | ***Gras + italique*** | `***Gras + italique***` |
 | ~~Texte barré~~ | `~~Texte barré~~` |
 | [Lien vers GitHub](https://github.com) | `[Lien vers GitHub](https://github.com)` |
-| ![Image exemple](./images/exemple.jpg) | `![Image exemple](./images/exemple.jpg)` |
+| ![Image exemple](./img/exemple.jpg) | `![Image exemple](./img/exemple.jpg)` |
 | # Titre H1 | `# Titre H1` |
 | ## Titre H2 | `## Titre H2` |
 | ### Titre H3 | `### Titre H3` |

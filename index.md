@@ -1,9 +1,16 @@
-# Carnet
+# Carnet de fragments
 
-Fragments, tentatives, nuits.
+Fragments, pensées et rêveries publiés sans contrainte.
 
 ---
 
 ## Textes
 
-- [Fragment I](./textes/fragment-01.html)
+- [Fragment I – Nuits](./textes/01-nuits.html)
+- [Fragment II – Rêveries](./textes/02-rêveries.html)
+
+---
+
+## Notes
+
+- [Idée 001](./notes/idee-001.html)

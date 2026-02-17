@@ -2,6 +2,8 @@
 
 Fragments, pensées et rêveries publiés sans contrainte.
 
+![Image exemple](./img/photo.jpg)
+
 ---
 
 ## Textes

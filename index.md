@@ -16,3 +16,5 @@ Fragments, pensées et rêveries publiés sans contrainte.
 ## Notes
 
 - [Idée 001](./notes/idee-001.html)
+
+  <img src="./img/Z.jpg" alt="ZZZ" width="50">
